@@ -37,7 +37,12 @@ This project uses a pre-trained ML model and rule-based heuristics to detect fra
 - **Monitoring:** PSI calculation for drift detection  
 
 ---
+## Demo Video
 
+
+https://github.com/user-attachments/assets/06386109-1a36-42f7-a102-359a99197eca
+
+---
 ## Installation
 1. Clone the repository:
    ```bash
